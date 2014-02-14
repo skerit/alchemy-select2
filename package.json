@@ -1,0 +1,13 @@
+{
+	"name": "alchemy-select2",
+	"description": "Select2 plugin for alchemy",
+	"version": "0.0.1",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/skerit/alchemy-select2.git"
+	},
+	"license": "MIT",
+	"engines": {
+		"node": ">=0.8"
+	}
+}
